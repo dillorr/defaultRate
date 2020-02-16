@@ -12,10 +12,9 @@ However, the smallest decrease in default rate was seen in proprietary (private,
 Out of 15 schools that were sanctioned by the US Department of Education due to having a cohort default rate 
 higher than 30%, 13 were proprietary colleges. 
 
-Due to their predatory student recruitment practices, we propose that proprietary colleges are located 
-more frequently in US Counties that have higher minority (non-white) populations. 
+Due to their predatory student recruitment practices, we propose that proprietary colleges are located more frequently in US Counties that have higher minority (non-white) populations. 
 
-We also propose that there exists a higher default rate in private colleges that are located these counties. 
+We also propose that there exists a higher default rate in proprietary colleges that are located these counties, compared to their public and private non-profit counterparts. 
 
 Data Sources:
 
