@@ -1,7 +1,7 @@
 # Analysis of Cohort Default Rates in Post-Secondary Education
 ## Comparing Private vs Public Institutions in Counties with Large Minority Populations
 
-Dillon Orr, Marketne Noel, Prince Gyamfi, John Vivan, PhD., Ebrahim Tarshizi, PhD.
+Authors: Dillon Orr, Marketne Noel, Prince Gyamfi, John Vivan, PhD., Ebrahim Tarshizi, PhD.
 
 **Summary**
 
