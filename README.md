@@ -15,7 +15,9 @@ higher than 30%, 13 were proprietary colleges.
 We propose that private, for-profit institutions operate more often in areas with larger minority (non-white) 
 populations in order to generate larger enrollment figures. 
 
-Data Sources: [Official Cohort Default Rates for Schools] (https://www2.ed.gov/offices/OSFAP/defaultmanagement/cdr.html) (2019) 
+Data Sources:
 
-[Census Race Data] (https://www2.ed.gov/offices/OSFAP/defaultmanagement/cdr.html) (2010) 
+[Official Cohort Default Rates for Schools](https://www2.ed.gov/offices/OSFAP/defaultmanagement/cdr.html) (2019) 
+
+[Census Race Data](https://www2.ed.gov/offices/OSFAP/defaultmanagement/cdr.html) (2010) 
 
