@@ -4,6 +4,7 @@
 Dillon Orr, Marketne Noel, Prince Gyamfi, John Vivan, PhD., Ebrahim Tarshizi, PhD.
 
 **Summary**
+
 On September 25th, 2019, the US Department of Education announced that the national cohort default rate from the 2016 
 fiscal year decreased to 10.1% from 10.8% in 2015. (US Department of Education, 2019) 
 A decrease in cohort default rate was seen for public, private, and proprietary institutions. 
