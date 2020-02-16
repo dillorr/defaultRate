@@ -19,5 +19,5 @@ Data Sources:
 
 [Official Cohort Default Rates for Schools](https://www2.ed.gov/offices/OSFAP/defaultmanagement/cdr.html) (2019) 
 
-[Census Race Data](https://www2.ed.gov/offices/OSFAP/defaultmanagement/cdr.html) (2010) 
+[Census Race Data](https://www.census.gov/data/datasets/2010/demo/popest/modified-race-data-2010.html) (2010) 
 
